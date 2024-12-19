@@ -1,8 +1,11 @@
 # Tubes-Std-Kel_16
 
 Nama Anggota 1    : Ananda Marchel Heatda Putra (103012300420)
+
 Nama Anggota 2    : Jeany Ferliza Nayla (103012300357)
+
 Kelas 		        : IF-47-08
+
 Kelompok 	        : 16
 
 Deskripsi Masalah
