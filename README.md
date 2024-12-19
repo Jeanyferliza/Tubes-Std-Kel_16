@@ -15,7 +15,7 @@ Rancanglah model multi-linked list yang dapat memodelkan antara penulis dengan d
 3.	Edit Penulis  -> ubah data penulis.
 4.	Edit Paper  -> ubah judul atau atribut lain dari paper tertentu.
 5.	Hapus Penulis dan Semua Papernya  -> hapus data penulis beserta semua papernya.
-6.	Hapus Paper dari Penulis  -> hapus relasi Paper dari Penulis .
+6.	Hapus Paper dari Penulis  -> hapus relasi Paper dari Penulis.
 7.	Show Data Penulis  -> tampilkan seluruh data penulis.
 8.	Show Data Paper  -> tampilkan seluruh data paper.
 9.	Show Daftar Penulis dan Papernya  -> tampilkan penulis dan relasi papernya.
